@@ -12,7 +12,6 @@ import {
 import {
   StackNavigator,
 } from 'react-navigation';
-import * as firebase from 'firebase';
 
 export default class MovieListView extends Component {
   static navigationOptions = {
